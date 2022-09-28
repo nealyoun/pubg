@@ -1,2 +1,2 @@
-# pubg
-pubg_dashboard
+# PUBG 
+This is a page for pubg dashboard.
