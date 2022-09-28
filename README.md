@@ -1,2 +1,2 @@
 # PUBG 
-This is a page for pubg dashboard.
+This is a page for pubg dashboard
