@@ -2,8 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: api, bug, data, Database, documentation, map, match, Python, question, server,
-  visualization, web, web-scrapping
+labels: ''
 assignees: Adn-thkim, nealyoun, yongjun-a-kim
 
 ---

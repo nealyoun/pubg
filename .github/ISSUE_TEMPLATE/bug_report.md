@@ -2,8 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: api, data, Database, documentation, help wanted, map, match, Python, question,
-  server, visualization, web, web-scrapping
+labels: ''
 assignees: Adn-thkim, nealyoun, yongjun-a-kim
 
 ---
